@@ -1,6 +1,5 @@
-# xyy
+# mvSC_frontend
 
-> A Vue.js project
 
 ## Build Setup
 
